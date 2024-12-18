@@ -1,6 +1,6 @@
 package stringBuilder;
 
-public class StringBuilderDemo {
+public class StringBuilderCapacity {
     public static void main(String[] args) {
         // Create StringBuilder with default capacity
         StringBuilder sb = new StringBuilder();
